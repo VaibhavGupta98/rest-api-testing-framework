@@ -198,7 +198,7 @@ Don't forget to give the project a star! Thanks again!
 
 Copyright 2022 Wingify Software Pvt. Ltd.
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES  change -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/wingify/rest-api-testing-framework.svg?style=for-the-badge
 [contributors-url]: https://github.com/wingify/rest-api-testing-framework/contributors
